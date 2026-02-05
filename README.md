@@ -67,8 +67,8 @@
 ---
 
 ## 🗂️ 檔案結構
-index.html      # Support Page（使用說明、資料來源與免責聲明）
-privacy.html    # Privacy Policy（私隱政策）
+- index.html       （Support Page（使用說明、資料來源與免責聲明））
+- privacy.html     （Privacy Policy（私隱政策））
 
 ---
 
