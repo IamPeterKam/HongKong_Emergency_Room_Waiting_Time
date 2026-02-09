@@ -91,5 +91,4 @@
 /
 ├─ index.html        # Support Page（使用說明、資料來源、免責聲明）
 ├─ privacy.html      # Privacy Policy（私隱政策）
-├─ style.css         # 共用樣式
 └─ README.md
